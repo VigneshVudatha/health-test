@@ -1,0 +1,7 @@
+{
+  "name": "Health Access & Predict",
+  "description": "A comprehensive AI-powered health platform featuring symptom checking, risk prediction, doctor access location using Google Maps grounding, and personal health dashboards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
